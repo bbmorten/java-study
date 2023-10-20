@@ -1,6 +1,6 @@
-package literals;
+package samples;
 
-public class literals {
+public class Literals {
     public static void main(String[] args) {
 
         // Text Literals
